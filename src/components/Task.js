@@ -15,7 +15,7 @@ export const Task = ({
   onArchiveTask,
   onTogglePinTask,
   onEditTitle,
-  ...props
+  ...props  
 }) => (
   <Flex
     as="li"
