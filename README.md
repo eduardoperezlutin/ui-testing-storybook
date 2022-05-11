@@ -1,6 +1,6 @@
-# UI Testing w/ Storybook Tutorial
+# UI Testing w/ Storybook
 
-Repo to store tutorial progress.
+Implement testing techniques using storybooks.
 
 # Commands
 
